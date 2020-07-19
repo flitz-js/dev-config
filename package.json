@@ -1,9 +1,9 @@
 {
   "name": "@flitz/dev-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shared configuration files for tools like ESLint and TypeScript.",
   "main": "index.js",
-  "files":[
+  "files": [
     "index.js",
     "tsconfig.json"
   ],

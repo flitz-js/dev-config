@@ -1,6 +1,6 @@
 [![npm](https://img.shields.io/npm/v/@flitz/body.svg)](https://www.npmjs.com/package/@flitz/body)
 
-# @flitz/body
+# @flitz/dev-config
 
 Shared [ESLint](http://eslint.org/docs/developer-guide/shareable-configs.html) and [tsconfig.json](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html) files for [flitz](https://github.com/flitz-js/flitz).
 
