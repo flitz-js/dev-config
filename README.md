@@ -1,4 +1,4 @@
-[![npm](https://img.shields.io/npm/v/@flitz/body.svg)](https://www.npmjs.com/package/@flitz/body)
+[![npm](https://img.shields.io/npm/v/@flitz/dev-config.svg)](https://www.npmjs.com/package/@flitz/dev-config)
 
 # @flitz/dev-config
 
