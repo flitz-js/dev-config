@@ -2,7 +2,7 @@
 
 # @flitz/dev-config
 
-Shared [ESLint](http://eslint.org/docs/developer-guide/shareable-configs.html) and [tsconfig.json](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html) files for [flitz](https://github.com/flitz-js/flitz).
+> Shared [ESLint](http://eslint.org/docs/developer-guide/shareable-configs.html) and [tsconfig.json](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html) files for [flitz](https://github.com/flitz-js/flitz).
 
 ![meme](https://raw.githubusercontent.com/flitz-js/dev-config/master/assets/meme.jpg)
 
